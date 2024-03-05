@@ -2,6 +2,7 @@
 无线新闻,https://tv.iill.top/tvb/2
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线新闻,http://lttv.ddqq.fun:8085/tvb.php?id=0&hq
+无线新闻,http://sz.l68.fun:9001/bysid/83
 无线新闻,http://php.jdshipin.com:8880/PLTV/iptv.php?id=tvbxw
 无线新闻,https://myphp.jdshipin.com/api/tvb2024.php?id=2
 无线新闻,http://tv.redrainl.site:5678/tvb.php?id=1&hq
@@ -66,10 +67,11 @@
 无线新闻,http://php.ilpl.me/tvb/0.m3u8
 无线新闻,http://162.19.247.76:22222/live/tvbnews/index.m3u8
 无线新闻,http://pull-l3-cny.douyincdn.com/live/I8NmAJdtvb632.m3u8
-翡翠台-新,https://cdn.ggapk.net/live/tv?id=c33fNBIv-sTw-NZgn4NCuTVFAkUAhquIUmYw8gi5YNAi8eNafVsRD_P9UhjUHFBCT6rKGnDmy6eEidW9Qz-5Ef4X1yzlHpr5U3w4DarbGE0vwH7vUGy0PlMeKz-c4Va9qancjxp474xA2M8LvaA3St3C-q6TLJotDl5Rc_CTyGH9rbaBYq_1uSWhyFE3oaFOR4dhjHRzmAKL0dDzhiUw5sNdmPMFAwNDlcDeghiPlYU5NoFeHoyoGwE4G7doqgZQkQQmriffqHHAsoAHqSWwsEgPgI-ZxxWfATGImVrJHQWA6AltBC6tz9IWHH-8955XjWmJvotwdAnljTYUTNXb2PEobdtRNiHBsMRpbKHtZYqMemDfjJ4xb35WB5F5IVGewTPtd8erG1GKOjy26DF8_H3vfn2t2Nr6peOiGamIVPaPvsfvxZEJ-4lb5Oj34sNjTvXMMba0N-lEUAIhv8C5ppO8gpS7nFEX660LqxKUoW9IwPVG2hu_jhyvh0NCrqADh2wSvdRPaCMlnNwhWrtF7BMeF_n52mW10UcNCJGb_PbuFYgtqB5yY0-jMZlh5CUtz_jH1BZA&idp=9ab9v42pvRRfQNhDtK_ZjJyppxsefEk3zaAcvWLY30C6FRwH
+
 翡翠台-新,http://cdn.jdshipin.com:8880/gdfc720p.php
 翡翠台-新,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct2
 翡翠台-新,http://v2h.jdshipin.com/jade/jade.stream/playlist.m3u8
+翡翠台-新,http://sz.l68.fun:9000/bysid/1
 翡翠台-新,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
 
 翡翠台-新,http://ali.hlspull.yximgs.com/live/tvbfc264t3a888221300-98hsrt6u57eujseth5i7463atgestjhsrjsrjk.flv
@@ -124,6 +126,7 @@ TVB娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 TVB娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 HOY电视,http://r.jdshipin.com/ZKpTD
 HOY电视,http://51.89.21.73:35263/
+HOY电视,http://sz.l68.fun:9003/bysid/77
 HOY电视,http://51.89.21.73:27347/livehttpplay?channel_id=20152
 HOY电视,http://php.jdshipin.com:8880/iptv.php?id=hoytv
 HOY电视,http://r.jdshipin.com/NADme
@@ -298,6 +301,7 @@ HOY电视,http://xtv:1292@23.142.200.188:9981/stream/channelid/1421257512
 翡翠台广电,http://113.117.14.195:8081/hls/67/index.m3u8
 翡翠台广电,http://iptv.tonmy007.tk:8080/gudou.php?id=1350_4500
 翡翠台广电,http://5612hu1210.zicp.fun:8122/gudou.php?id=1350_4500
+HOY资讯78台,http://sz.l68.fun:9003/bysid/78
 HOY资讯78台,http://feng163.com:9003/bysid/78
 HOY资讯78台,http://bziyunshao.synology.me:8891/bysid/78
 HOY资讯78台,http://bziyunshao.synology.me:8891/bysid/77
@@ -333,6 +337,7 @@ HOY资讯78台,http://lan138.3322.org:9981/stream/channelid/630892601
 HOY资讯78台,http://xtv:1292@23.142.200.188:9981/stream/channelid/1446971830
 HOY资讯78台,http://iptv.ye23.win:2209/135/hk.php?id=cable78h
 ViuTV,http://php.jdshipin.com:8880/iptv.php?id=viutv
+ViuTV,http://sz.l68.fun:9000/bysid/99
 ViuTV,http://feng163.com:9000/bysid/99
 ViuTV,http://bziyunshao.synology.me:8889/bysid/99
 ViuTV,http://cms750.synology.me:8001/bysid/99
@@ -3367,7 +3372,6 @@ CCTV6电影,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protoc
 Panda影院,http://vl15191373.imwork.net:8880/udp/239.93.0.214:5140
 Panda影院,http://182.151.211.171:808/hls/127/index.m3u8
 Panda影院,http://118.113.7.174:4000/udp/239.93.0.214:5140
-好莱坞电影,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 
 CHC动作电影,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -3941,36 +3945,23 @@ CNC新华社,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 CNC新华社,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225694/index.m3u8
 CNC新华社,http://qk.demo.lifves.com/391351386018890/PLTV/88888888/224/3221225694/index.m3u8
 CCTV13新闻50帧,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000516/index.m3u8?IAS
-CCTV13新闻50帧,http://[2409:8087:5011:1020::1f]/180000001002/00000001000000000050000000133801/main.m3u8?IASHttpSessionId=OTT
-CCTV13新闻50帧,http://[2409:8087:5050:20::2028]/180000001002/00000001000000000050000000133801/main.m3u8?IASHttpSessionId=OTT
-CCTV13新闻50帧,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000045000000287929/main.m3u8?IASHttpSessionId=OTT
-CCTV13新闻50帧,http://[2409:8087:5050:20::3023]/180000001001/00000001000000000045000000287929/main.m3u8?IASHttpSessionId=OTT
-CCTV13新闻50帧,http://111.13.42.7/PLTV/88888888/224/3221226568/1.m3u8
-CCTV13新闻50帧,http://113.207.84.199:8090/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
 CCTV13新闻50帧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV13新闻50帧,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
-CCTV13新闻50帧,http://wabc.ml/sxg.php?id=CCTV-xw_4000
-CCTV13新闻50帧,http://222.79.112.137/live.aishang.ctlcdn.com/00000110240502_1/playlist.m3u8?CONTENTID=00000110240502_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-CCTV13新闻50帧,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240502_1/playlist.m3u8?CONTENTID=00000110240502_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-CCTV13新闻50帧,http://1.204.169.243/live.aishang.ctlcdn.com/00000110240502_1/playlist.m3u8?CONTENTID=00000110240502_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV13新闻50帧,http://222.79.112.138/live.aishang.ctlcdn.com/00000110240502_1/playlist.m3u8?CONTENTID=00000110240502_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV13新闻50帧,http://219.151.47.233/live.aishang.ctlcdn.com/00000110240502_1/playlist.m3u8?CONTENTID=00000110240502_1
 CCTV13新闻50帧,http://219.151.47.233/live.aishang.ctlcdn.com/00000110240502_1/encoder/0/playlist.m3u8
 CCTV13新闻50帧,http://61.164.158.161/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
-CCTV13新闻50帧,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
 CCTV13新闻50帧,http://117.59.174.7/session/b4c5fbae-b923-11ed-8477-525400425493$h1.0$default/gpd6jh/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
-CCTV13新闻50帧,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
-CCTV13新闻50帧,http://edu.live.cbncdn.cn/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
-CCTV13新闻,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.js.chinamobile.com/PLTV/3/224/3221228324/index.m3u8
+CCTV13新闻50帧,http://111.13.42.7/PLTV/88888888/224/3221226568/1.m3u8
+CCTV13新闻,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.js.chinamobile.com/PLTV/3/224/3221228324/index.m3u8
+CCTV13新闻,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.js.chinamobile.com/PLTV/3/224/3221228324/index.m3u8
 CCTV13新闻,http://39.136.18.215/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/index.m3u8?fmt=ts2hls?Hevc4M
-CCTV13新闻,http://[2409:8087:6a01:1010::31]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls?Hevc4M 
-CCTV13新闻,http://157.0.3.7/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 CCTV13新闻,http://rrs04.hw.gmcc.net:8088/PLTV/651/224/3221226717/1.m3u8
 CCTV13新闻,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=10
 CCTV13新闻,http://gslbservmst.bestv.com.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=10
 CCTV13新闻,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=10
 CCTV13新闻,http://shbu.vod.bestvcdn.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
-CCTV13新闻,http://yuniptvunql.chinayungu.cn:65530/live/cctv13/index.m3u8
+
 CCTV13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=0
 CCTV13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8?auth_key=0
 CCTV13新闻,http://117.169.124.145:8080/live/cctv-13/index.m3u8
@@ -3988,6 +3979,8 @@ CCTV13新闻,http://cyz32.livehbindex.hbcatv.cn/live/5000002081f5478882f00a0f9be
 CCTV13新闻,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8
 CCTV13新闻,http://kede.kandiantv.cn/m3u8.php?/migu/608807423
 CCTV13新闻,http://kede.kandiantv.cn/migu.php?id=cctv13
+CCTV13新闻,http://157.0.3.7/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+CCTV13新闻,http://yuniptvunql.chinayungu.cn:65530/live/cctv13/index.m3u8
 肇庆综合,http://php.jdshipin.com:8880/chudian.php?id=zqzh
 肇庆综合,http://hls.666888999.gay/gdzb.php?id=/udp/239.253.43.1:5146
 肇庆综合,http://app.nettv.vip/hls/itouch.php?id=1232
@@ -5696,6 +5689,7 @@ CCTV14少儿,http://112.25.63.150/gitv_live/G_CCTV-14-CQ/G_CCTV-14-CQ.m3u8
 
 肇庆域名,#genre#
 CCTV13,http://rrs04.hw.gmcc.net:8088/PLTV/651/224/3221226717/1.m3u8
+CCTV13,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226717/1.m3u8
 CCTV1,http://rrs04.hw.gmcc.net:8088/PLTV/651/224/3221226737/1.m3u8
 CCTV1,http://rrs04.hw.gmcc.net:8088/PLTV/651/224/3221226667/1.m3u8
 CCTV1,http://rrs04.hw.gmcc.net:8088/PLTV/651/224/3221226856/1.m3u8
