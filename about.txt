@@ -1,5 +1,4 @@
 港澳台,#genre#
-无线新闻,https://tv.iill.top/tvb/2
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线新闻,http://lttv.ddqq.fun:8085/tvb.php?id=0&hq
 无线新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
@@ -68,7 +67,9 @@
 无线新闻,http://php.ilpl.me/tvb/0.m3u8
 无线新闻,http://162.19.247.76:22222/live/tvbnews/index.m3u8
 无线新闻,http://pull-l3-cny.douyincdn.com/live/I8NmAJdtvb632.m3u8
+无线新闻,https://tv.iill.top/tvb/2
 翡翠台-新,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
+翡翠台-新,http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8
 翡翠台-新,http://120.84.121.71:808/hls/25/index.m3u8
 翡翠台-新,http://120.238.13.198:8000/hls/21/index.m3u8
 翡翠台-新,http://cdn.jdshipin.com:8880/gdfc720p.php
@@ -76,7 +77,6 @@
 翡翠台-新,http://v2h.jdshipin.com/jade/jade.stream/playlist.m3u8
 翡翠台-新,http://sz.l68.fun:9000/bysid/1
 翡翠台-新,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
-
 翡翠台-新,http://r.jdshipin.com/Nopt7
 翡翠台-新,http://cdn.jdshipin.com:8880/gdfc1080p.php
 
@@ -2196,6 +2196,7 @@ CCTV-17HD,http://www.namewee.xyz/gudou.php?id=CCTV17HD_7500
 CCTV13新闻,http://ctcc-tvod.ctyun-cdn.gitv.tv/gitv_live/G_CCTV-13-HD-265-8M/G_CCTV-13-HD-265-8M.m3u8
 CCTV13新闻,http://ctcc-livod.ctyun-cdn.gitv.tv/gitv_live/G_CCTV-13-HD-265-8M/G_CCTV-13-HD-265-8M.m3u8
 CCTV13新闻,http://ctcc-livod.ctyun-cdn.gitv.tv/gitv_live/G_CCTV-13-CQ/G_CCTV-13-CQ.m3u8
+CCTV13新闻,http://sncbn.ali-cdn.gitv.tv/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8
 CCTV13新闻,http://[2409:8087:2001:20:2800:0:df6e:eb23]/PLTV/1/224/3221231016/1.m3u8
 CCTV13新闻,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.js.chinamobile.com/PLTV/3/224/3221228324/index.m3u8
 CCTV13新闻,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/3221228324/index.m3u8
