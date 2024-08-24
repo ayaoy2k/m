@@ -1,15 +1,15 @@
 港澳台,#genre#
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=6
+无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=2
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
-无线新闻,http://live.nctv.top/8/tw.php?id=1
-无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=6
+
 无线新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
 无线新闻,https://tvb.livednow.com/C
 无线新闻,https://tvb.livednow.com/I-NEWS
 无线新闻,http://php.jdshipin.com:8880/PLTV/iptv.php?id=tvbxw
 无线新闻,http://vanguard110.com:30080/HK/wxxw/hls.m3u8
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=2
 无线新闻,http://nz189l149.bb27109.ctm.net:8892/bysid/83
 无线新闻,http://170.178.177.98:27347/livehttpplay?channel_id=30024 
@@ -1695,6 +1695,7 @@ CCTV4K,rtp://239.11.0.162:1025#rtp://239.11.0.161:1025
 广东4K超高清,rtp://239.10.0.64:1025#rtp://239.10.0.74:1025#rtp://239.10.0.76:1025#rtp://239.10.0.75:1025
 南国都市4K,rtp://239.11.0.170:1025
 咪咕4K体育,rtp://239.10.0.68:1025
+卫生健康,rtp://239.11.0.185:1025
 佛山公共,rtp://239.11.0.114:1025
 佛山综合,rtp://239.11.0.118:1025
 佛山南海,rtp://239.11.0.115:1025
@@ -1706,6 +1707,8 @@ CCTV4K,rtp://239.11.0.162:1025#rtp://239.11.0.161:1025
 CCTV13新闻,rtp://239.10.0.198:1025
 广东体育,rtp://239.10.0.47:1025#rtp://239.10.0.113:1025
 广州竞赛,rtp://239.11.0.142:1025
+睛彩竞技,rtp://239.11.0.183:1025
+睛彩广场舞,rtp://239.11.0.184:1025
 CCTV-5,rtp://239.10.0.102:1025
 CCTV5+体育,rtp://239.10.0.213:1025
 CCTV-16奥,rtp://239.11.0.126:1025
@@ -1837,7 +1840,6 @@ CGTNDoc英语,rtp://239.11.0.178:1025
 书画,rtp://239.11.0.174:1025
 花屏待测,rtp://239.11.0.167:1025
 发现之旅,rtp://239.11.0.182:1025
-发现之旅,rtp://239.11.0.183:1025
 精选频道202310,rtp://239.10.0.27:1025
 精选频道202310,rtp://239.10.0.28:1025
 精选频道202310,rtp://239.10.0.36:1025
@@ -3083,6 +3085,7 @@ CCTV5+,http://39.134.19.244:6610/yinhe/2/ch00000090990000001334/index.m3u8?virtu
 风云足球,http://www.yiyibest.com:7777/udp/239.49.9.6:6000
 风云足球,http://itstar.top:4000/udp/239.49.9.6:6000
 风云足球,http://157.0.3.7/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
+新视觉,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000249
 新视觉,http://live.nctv.top/8/bst1.php?id=xsjhd8m/8000000
 新视觉,http://live.nctv.top/8/bst.php?id=xsjhd8m/8000000
 新视觉,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xsj
@@ -3095,7 +3098,7 @@ CCTV5+,http://39.134.19.244:6610/yinhe/2/ch00000090990000001334/index.m3u8?virtu
 新视觉,http://39.136.18.166/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226188/1/index.m3u8?fmt=ts2hls
 新视觉,http://39.136.18.215/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226188/index.m3u8?fmt=ts2hls
 
-新视觉,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000249
+
 新视觉,http://php.jdshipin.com:8880/PLTV/gzyd.php?id=3221226188
 新视觉,http://php.jdshipin.com:8880/bst.php?id=xsjhd8m/8000000
 新视觉,https://cdn2.jdshipin.com/api/bst2.php?id=xsjhd8m/8000000
