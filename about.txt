@@ -1964,6 +1964,7 @@ CCTV14,http://rrs04.hw.gmcc.net:8088/PLTV/651/224/3221226645/1.m3u8
 CCTV16,http://rrs04.hw.gmcc.net:8088/PLTV/651/224/3221226825/1.m3u8
 CCTV17,http://rrs04.hw.gmcc.net:8088/PLTV/651/224/3221226660/1.m3u8
 CCTV17,http://rrs04.hw.gmcc.net:8088/PLTV/651/224/3221226727/1.m3u8
+睛彩竞技,http://183.235.153.202:8088/rrs04.hw.gmcc.net/PLTV/651/224/3221226870/1.m3u8
 睛彩竞技,http://rrs04.hw.gmcc.net:8088/PLTV/651/224/3221226870/1.m3u8
 睛彩青少,http://rrs04.hw.gmcc.net:8088/PLTV/651/224/3221226965/1.m3u8
 睛彩篮球,http://rrs04.hw.gmcc.net:8088/PLTV/651/224/3221226952/1.m3u8
@@ -2486,9 +2487,6 @@ CCTV6电影,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/
 CCTV6电影,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228516/index.m3u8
 CCTV6电影,http://ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 CCTV6电影,http://39.136.18.215/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226011/1/index.m3u8?fmt=ts2hls?Hevc4M
-CCTV6电影,http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
-CCTV6电影,http://101.227.98.195/live.harvest.miguvideo.com:8088/migu/kailu/cctv6hd265/55/20200407/index.m3u8?ProgramID=&encrypt=
-CCTV6电影,http://nas.jdshipin.com:8801/sxgv6.php?id=CCTV-6H265_4000
 CCTV6电影,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R621C86FCU319FA04BK783FB5EBIFA29A0DEP2BF4M340CAC5V0Z339C9W16D7E5AFCA1ADFD1&playtoken=&programid=4200000065
 湖南IPTV4k,http://home.111818.xyz:8888/udp/239.76.245.35:1234
 湖南IPTV4k,http://113.245.244.207:8888/udp/239.76.245.35:1234
@@ -3263,11 +3261,8 @@ CCTV5+,http://39.134.19.244:6610/yinhe/2/ch00000090990000001334/index.m3u8?virtu
 新视觉,https://db.xxray.cc/sxg.php?id=ycxsjH265_4000
 新视觉,http://159.75.85.63:5681/sxg.php?id=ycxsjH265_4000
 新视觉,https://sgx.xxray.cc/IPTV/xsxg.php?id=ycxsjH265_4000
-新视觉,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
-新视觉,https://live.goodiptv.club/api/sxg.php?id=ycxsjH265_4000
 新视觉,http://120.236.57.77:9901/tsfile/live/1073_1.m3u8
 新视觉,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000249
-新视觉,http://cdnfhrrs.gz.chinamobile.com:8006/PLTV/88888888/224/3221226188/403601554.smil/index.m3u8?fmt=ts2hls
 新视觉,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
 新视觉,http://tv.redrainl.site:5678/bestv.php?id=xsjhd8m/8000000
 新视觉,https://php.jdshipin.com:8880/bst.php?id=xsjhd8m/8000000
