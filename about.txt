@@ -1169,6 +1169,7 @@ Now体育,https://7pal.short.gy/nowsport4k
 小猪佩奇,已测http://223.109.(1-255).(1-255)/PLTV/2/224/3221228460/index.m3u8
 CCTV13,http://223.105.252.50/PLTV/3/224/3221228324/index.m3u8
 CCTV13,http://223.105.252.37/PLTV/4/224/3221227387/index.m3u8
+CCTV13,http://223.105.252.55/PLTV/3/224/3221228224/index.m3u8
 CCTV13,http://183.207.249.71/gitv/live1/-/G_CCTV-13-HQ
 CCTV13,http://183.207.249.71/gitv/live1/-/G_CCTV-13-CQ
 CCTV13,http://183.207.249.71/gitv/live1/-/G_CCTV-13-HD-265-8M
@@ -1203,6 +1204,7 @@ CCTV1,http://183.207.249.71/gitv/live1/G_CCTV-1-AVS-4K264/G_CCTV-1-AVS-4K264
 CCTV1,http://223.105.252.45/PLTV/3/224/3221227529/index.m3u8
 CCTV1,http://223.105.252.46/PLTV/3/224/3221227529/index.m3u8
 C2,http://223.105.252.21/PLTV/4/224/3221228118/index.m3u8?servicetype=1&unionUrl=gitv%2Flive1%2FG_CCTV-2-HD-265-8M%2FG_CCTV-2-HD-265-8M&icpid=88888888&from=5&popid=5&hms_devid=6843&prioritypopid=5
+C2,http://223.105.252.55/PLTV/3/224/3221228300/index.m3u8
 C2,http://183.207.249.71/gitv/live1/G_CCTV-2-HD-265-8M
 C2,http://183.207.249.71/gitv/live1/G_CCTV-2-HD-265-8M/G_CCTV-2-HD-265-8M
 cctv3,http://223.105.252.59/PLTV/4/224/3221228499/index.m3u8
@@ -1219,10 +1221,12 @@ cctv5,http://183.207.249.71/gitv/live1/G_CCTV-5-HD-265-5M/G_CCTV-5-HD-265-5M
 cctv5,http://183.207.248.71/gitv/live1/-/G_CCTV-5-AVS-4K264
 cctv5+,http://223.105.252.13/PLTV/4/224/3221228114/index.m3u8
 cctv5+,http://223.105.252.13/PLTV/4/224/3221228076/index.m3u8
+cctv5+,http://223.105.252.55/PLTV/3/224/3221227631/index.m3u8
 CCTV16,http://223.105.252.58/PLTV/3/224/3221228168/index.m3u8
 CCTV16,http://223.105.252.59/PLTV/4/224/3221228314/index.m3u8
 CCTV16,http://223.105.252.24/PLTV/4/224/3221228144/index.m3u8
 CCTV16,http://223.105.252.27/PLTV/4/224/3221228320/index.m3u8
+CCTV16,http://223.105.252.55/PLTV/3/224/3221228112/index.m3u8
 CCTV16,http://183.207.249.71/gitv/live1/-/G_CCTV-16-4K
 CCTV16,http://183.207.249.71/gitv/live1/-/G_CCTV-16-CQ
 CCTV16,http://183.207.249.71/gitv/live1/-/G_CCTV-16-HQ
@@ -1270,6 +1274,8 @@ cctv14,http://183.207.249.71/gitv/live1/-/HD-8000k-1080P-cctv14
 浙江卫视,http://223.105.252.11/PLTV/3/224/3221228309/index.m3u8
 浙江卫视,http://223.105.252.23/PLTV/4/224/3221228147/index.m3u8
 浙江卫视,http://183.207.249.71/gitv/live1/G_ZHEJIANG-HD-265-8M/G_ZHEJIANG-HD-265-8M
+北京卫视,http://223.105.252.55/PLTV/3/224/3221228410/index.m3u8
+海南卫视,http://223.105.252.55/PLTV/3/224/3221228139/index.m3u8
 睛彩篮球,http://223.105.252.55/PLTV/3/224/3221228129/index.m3u8
 睛彩篮球,http://223.105.252.55/PLTV/3/224/3221228234/index.m3u8
 睛彩篮球,http://183.207.249.71/gitv/live1/-/HD-8000k-1080P-miguaoyun1
@@ -1278,13 +1284,13 @@ cctv14,http://183.207.249.71/gitv/live1/-/HD-8000k-1080P-cctv14
 高清臻享睛彩篮球,http://183.207.249.71/gitv/live1/-/miguaoyun01-AVS-4K01
 高清臻享睛彩竞技,http://183.207.249.71/gitv/live1/-/miguaoyun1-AVS
 全民热练,http://183.207.249.71/gitv/live1/-/HD-8000k-1080P-quanminrl
-
 纪实人文,http://223.105.252.48/PLTV/3/224/3221227635/index.m3u8
 纪实人文,http://183.207.249.71/gitv/live1/HD-8000k-1080P-shanghaijishi/HD-8000k-1080P-shanghaijishi
 纪实人文,http://223.105.252.50/PLTV/3/224/3221227674/index.m3u8
 Live南京,http://223.105.252.55/PLTV/4/224/3221228753/index.m3u8
 汪汪队,http://223.110.243.239/PLTV/4/224/3221228463/index.m3u8
 汪汪队,http://183.207.249.71/gitv/live1/GITV-JS-13/GITV-JS-13
+
 
 互联网娱乐,#genre#
 虎牙经典好歌,http://cfss.cc/cdn/hy/20616876.m3u8
