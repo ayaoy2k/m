@@ -1203,6 +1203,7 @@ CCTV13,http://183.207.249.71/gitv/live1/-/G_CCTV-13-HD-265-5M
 cctv8K,http://223.105.252.42/PLTV/4/224/3221228756/index.m3u8
 cctv8K,http://223.105.252.58/PLTV/3/224/3221228165/index.m3u8
 cctv8K,http://183.207.249.71/gitv/live1/-/GITV-JS-3
+
 cctv4k,http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8
 cctv4k,http://223.105.252.59/PLTV/4/224/3221228472/index.m3u8
 cctv4k,http://223.105.252.59/PLTV/4/224/3221228228/index.m3u8
@@ -1891,6 +1892,7 @@ CCTV13新闻,rtp://239.10.0.198:1025
 大湾区卫视,rtp://239.11.0.78:1025
 广州综合,rtp://239.11.0.138:1025
 广州新闻,rtp://239.11.0.139:1025
+北京卫视4K,rtp://239.11.0.191:1025#rtp://239.11.0.192:1025
 CCTV4K,rtp://239.11.0.162:1025#rtp://239.11.0.161:1025
 广东4K超高清,rtp://239.10.0.64:1025#rtp://239.10.0.74:1025#rtp://239.10.0.76:1025#rtp://239.10.0.75:1025
 南国都市4K,rtp://239.11.0.170:1025
@@ -2376,6 +2378,8 @@ B站4K粤语,http://zzy789.xyz/bili.php?id=3544783
 淘电影(内部解码),http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~KlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk:20230121144555%2C&GuardEncType=2
 淘电影(内部解码),http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=%7E%7EV2.0%7EXOsrWMA%2DUCdUl1hQSR9EKw%7EKlErQUXVuBznNsk%5F8%2D4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72%5FCIJ2tk%3A20230121144555%2C&GuardEncType=2
 
+
+淘电影(内部解码),http://39.137.67.12/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?
 淘电影(内部解码),http://[2409:8087:0:20:10::36]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=%7E%7EV2.0%7EXOsrWMA%2DUCdUl1hQSR9EKw%7EKlErQUXVuBznNsk%5F8%2D4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72%5FCIJ2tk%3A20230121144555%2C&GuardEncType=2
 淘电影(内部解码),http://[2409:8087:0:20:10::37]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=%7E%7EV2.0%7EXOsrWMA%2DUCdUl1hQSR9EKw%7EKlErQUXVuBznNsk%5F8%2D4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72%5FCIJ2tk%3A20230121144555%2C&GuardEncType=2
 淘电影(内部解码),http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~KlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk:20230121144555,&GuardEncType=2
