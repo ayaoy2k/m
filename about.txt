@@ -1,4 +1,5 @@
 港澳台,#genre#
+无线新闻,http://115.44.140.170:18180/TV00000000000000000034@HHZT
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
@@ -78,6 +79,15 @@
 无线新闻,http://pull-l3-cny.douyincdn.com/live/I8NmAJdtvb632.m3u8
 无线新闻,https://tv.iill.top/tvb/2
 
+
+翡翠台2026,http://gdjyyd.sohu.blog:1698/hls/83/index.m3u8
+翡翠台2026,http://120.238.5.44:1698/hls/83/index.m3u8
+翡翠台2026,https://www.9kds.com/d/hk/tvbfc/?kl=www.9kds.com
+翡翠台2026,https://www.9kds.com/d/hk/tvbfc/&kl=www.9kds.com
+翡翠台2026,http://gdsztw.sohu.blog:44300/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0
+翡翠台2026,http://gdjyyd.sohu.blog:1698/hls/83/index.m3u8
+翡翠台2026,http://115.44.140.170:18180/TV00000000000000000032@HHZT
+翡翠台2026,http://gdjydx.sohu.blog:1698/hls/83/indexm3u8
 翡翠台2026,http://116.77.33.98:44330/tsfile/live/1008_1.m3u8
 翡翠台2026,http://36.36.200.198:44330/tsfile/live/1008_1.m3u8
 翡翠台2024,rtmp://27.223.28.254:40085/vlive/yifatvjade
@@ -480,6 +490,7 @@ Now新闻,http://51.222.193.142:10011/9
 Now新闻,http://api.leonardpark.dev/live/now/332
 Now新闻,http://123.58.201.173:52411/test/iptv.php?tid=gt&id=13
 Now新闻,http://116.205.130.205:66/6/807tv.php?tid=gt&id=13
+凤凰香港,http://gdjyyd.sohu.blog:1698/hls/87/index.m3u8
 凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,http://223.19.212.121:20131/bysid/259
@@ -550,7 +561,7 @@ Now新闻,http://116.205.130.205:66/6/807tv.php?tid=gt&id=13
 凤凰香港,http://iptv.ye23.win:2209/135/hk.php?id=fh3
 凤凰香港,http://anren.live/HK/BSJE.m3u8
 
-
+凤凰资讯,http://gdjyyd.sohu.blog:1698/hls/85/index.m3u8
 凤凰资讯,http://cdn5.1678520.xyz/live/fhzx/stream.m3u8
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://tv.sd.cn/sichuan?id=239.93.1.4:2191
@@ -610,7 +621,7 @@ Now新闻,http://116.205.130.205:66/6/807tv.php?tid=gt&id=13
 凤凰资讯,http://iptv.ye23.win:2209/135/hk.php?id=fhzx
 
 凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
-
+凤凰中文,http://gdjyyd.sohu.blog:1698/hls/86/index.m3u8
 凤凰中文,http://tv.sd.cn/sichuan?id=239.93.0.162:2192
 凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
@@ -2428,7 +2439,55 @@ CETV教育4,http://rrs04.hw.gmcc.net:8088/PLTV/651/224/3221226724/1.m3u8
 失效芒果TV_4M,http://rrs04.hw.gmcc.net:8088/PLTV/651/224/3221226629/1.m3u8
 失效芒果TV_4M,http://rrs04.hw.gmcc.net:8088/PLTV/651/224/3221226631/1.m3u8
 
-
+咪视界体育,#genre#
+咪视界4k,http://cache.ott.fifalive.itv.cmvideo.cn/000000001000/3000000010000005180/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=m&version=1.0&owaccmark=3000000010000005180&owchid=FifastbLive&AuthInfo=JQEtaX9WPxdB2fP4ZOwGf6VE5APRXoFSzslOaEyYLXNkEOgBjUqf2OHisW0uehCnrW3HbBGzNBa0YwW1OUY9Vg%3D%3D
+咪视界4k,https://www.9kds.com/d/msj.php?id=3000000010000005180&kl=www.9kds.com
+睛彩竞技,https://www.9kds.com/d/msj.php?id=3000000020000011528&kl=www.9kds.com
+睛彩竞技,http://cache.ott.fifalive.itv.cmvideo.cn/000000001000/3000000020000011528/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=m&version=1.0&owaccmark=3000000020000011528&owchid=FifastbLive&AuthInfo=yZrVGTwcWZET1Q5VHqCaioz8s60QiAIqNoACqgfg%2F2t89BvS3zrQUT84qtJvWe6sx%2BYP5QkabCXFgOUf7G%2FL%2FQ%3D%3D
+睛彩篮球,https://www.9kds.com/d/msj.php?id=3000000020000011529&kl=www.9kds.com
+睛彩篮球,http://cache.ott.fifalive.itv.cmvideo.cn/000000001000/3000000020000011529/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=m&version=1.0&owaccmark=3000000020000011529&owchid=FifastbLive&owsid=2650641775932146394&AuthInfo=yZrVGTwcWZET1Q5VHqCaiuj40yfe%2FtysJ1CYmv8STQn2I43KHCDfk9oeOJN7mfPQNIeAoYquOabvlYUdQ2p1bw%3D%3D
+睛彩青少,http://cache.ott.fifalive.itv.cmvideo.cn/000000001000/3000000020000011525/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=m&version=1.0&owaccmark=3000000020000011525&owchid=FifastbLive&owsid=9635371775932160275&AuthInfo=yZrVGTwcWZET1Q5VHqCaikeHMpvtEvt9HTv2TEtD%2Fwj0TUJmZBDrd8uu3yz6H9t1MZMmrMbCZUxxTYhqw3oqOw%3D%3D
+睛彩青少,https://www.9kds.com/d/msj.php?id=3000000020000011525&kl=www.9kds.com
+睛彩广场舞,https://www.9kds.com/d/msj.php?id=3000000020000011523&kl=www.9kds.com
+睛彩广场舞,http://cache.ott.fifalive.itv.cmvideo.cn/000000001000/3000000020000011523/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=m&version=1.0&owaccmark=3000000020000011523&owchid=FifastbLive&owsid=6717891775932175436&AuthInfo=yZrVGTwcWZET1Q5VHqCaiimgJMAY38650bRyLXGf3bPuCI%2BwwMnf3FtKSKxCc6nEisSuBVz1VugB8oyfoIkp4Q%3D%3D
+咪视界1,https://www.9kds.com/d/msj.php?id=3000000001000005308&kl=www.9kds.com
+咪视界2,https://www.9kds.com/d/msj.php?id=3000000001000005969&kl=www.9kds.com
+咪视界3,https://www.9kds.com/d/msj.php?id=3000000001000007218&kl=www.9kds.com
+咪视界4,https://www.9kds.com/d/msj.php?id=3000000001000008001&kl=www.9kds.com
+咪视界5,https://www.9kds.com/d/msj.php?id=3000000001000008176&kl=www.9kds.com
+咪视界6,https://www.9kds.com/d/msj.php?id=3000000001000008379&kl=www.9kds.com
+咪视界7,https://www.9kds.com/d/msj.php?id=3000000001000010129&kl=www.9kds.com
+咪视界8,https://www.9kds.com/d/msj.php?id=3000000001000010948&kl=www.9kds.com
+咪视界9,https://www.9kds.com/d/msj.php?id=3000000001000028638&kl=www.9kds.com
+咪视界10,https://www.9kds.com/d/msj.php?id=3000000001000031494&kl=www.9kds.com
+咪视界11,https://www.9kds.com/d/msj.php?id=3000000010000000097&kl=www.9kds.com
+咪视界12,https://www.9kds.com/d/msj.php?id=3000000010000002019&kl=www.9kds.com
+咪视界13,https://www.9kds.com/d/msj.php?id=3000000010000002809&kl=www.9kds.com
+咪视界14,https://www.9kds.com/d/msj.php?id=3000000010000003915&kl=www.9kds.com
+咪视界15,https://www.9kds.com/d/msj.php?id=3000000010000004193&kl=www.9kds.com
+咪视界16,https://www.9kds.com/d/msj.php?id=3000000010000005837&kl=www.9kds.com
+咪视界17,https://www.9kds.com/d/msj.php?id=3000000010000006077&kl=www.9kds.com
+咪视界18,https://www.9kds.com/d/msj.php?id=3000000010000006658&kl=www.9kds.com
+咪视界19,https://www.9kds.com/d/msj.php?id=3000000010000009788&kl=www.9kds.com
+咪视界20,https://www.9kds.com/d/msj.php?id=3000000010000010833&kl=www.9kds.com
+咪视界21,https://www.9kds.com/d/msj.php?id=3000000010000011297&kl=www.9kds.com
+咪视界22,https://www.9kds.com/d/msj.php?id=3000000010000011518&kl=www.9kds.com
+咪视界23,https://www.9kds.com/d/msj.php?id=3000000010000012558&kl=www.9kds.com
+咪视界24,https://www.9kds.com/d/msj.php?id=3000000010000012616&kl=www.9kds.com
+咪视界25,https://www.9kds.com/d/msj.php?id=3000000010000015470&kl=www.9kds.com
+咪视界26,https://www.9kds.com/d/msj.php?id=3000000010000015560&kl=www.9kds.com
+咪视界27,https://www.9kds.com/d/msj.php?id=3000000010000017678&kl=www.9kds.com
+咪视界28,https://www.9kds.com/d/msj.php?id=3000000010000019839&kl=www.9kds.com
+咪视界29,https://www.9kds.com/d/msj.php?id=3000000010000021904&kl=www.9kds.com
+咪视界30,https://www.9kds.com/d/msj.php?id=3000000010000023434&kl=www.9kds.com
+咪视界31,https://www.9kds.com/d/msj.php?id=3000000010000025380&kl=www.9kds.com
+咪视界32,https://www.9kds.com/d/msj.php?id=3000000010000027691&kl=www.9kds.com
+咪视界33,https://www.9kds.com/d/msj.php?id=3000000010000031669&kl=www.9kds.com
+咪视界34,https://www.9kds.com/d/msj.php?id=3000000020000011518&kl=www.9kds.com
+咪视界35,https://www.9kds.com/d/msj.php?id=3000000020000011519&kl=www.9kds.com
+咪视界36,https://www.9kds.com/d/msj.php?id=3000000020000011520&kl=www.9kds.com
+咪视界37,https://www.9kds.com/d/msj.php?id=3000000020000011521&kl=www.9kds.com
+咪视界38,https://www.9kds.com/d/msj.php?id=3000000020000011522&kl=www.9kds.com
 
 
 4K+影视,#genre#
@@ -2938,6 +2997,7 @@ Vr4K音乐,http://39.134.67.226/PLTV/88888888/224/3221225651/index.m3u8
 信号导视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.comvirtualDomain=yinhe.live_hls.zte.com
 信号导视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 信号导视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+珠江频道,http://gdjyyd.sohu.blog:1698/hls/78/index.m3u8
 珠江频道,http://www.vjlzcd.com:8000/rtp/239.10.0.62:1025
 珠江频道,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000011655
 珠江频道,http://111.29.9.42:6610/000000001000/1/1000000004000011655.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=ystenlive
@@ -3044,6 +3104,7 @@ Vr4K音乐,http://39.134.67.226/PLTV/88888888/224/3221225651/index.m3u8
 
 珠江频道,http://183.234.135.108:55555/rtp/239.77.0.1:5146
 珠江频道,http://gxyl-dl001.8866.org:8181/tsfile/live/1000_1.m3u8
+广东民生,http://gdjyyd.sohu.blog:1698/hls/9/index.m3u8
 广东民生,http://php.jdshipin.com:8880/PLTV/chudian.php?id=gdms
 广东民生,http://dirb59s.dixidsss.cn:59981/stream/channelid/64081861
 广东民生,http://php.jdshipin.com:8880/TVOD/chudian.php?id=gdms
@@ -3106,6 +3167,7 @@ Vr4K音乐,http://39.134.67.226/PLTV/88888888/224/3221225651/index.m3u8
 广东民生,http://113.65.6.109:8099/hls/4/index.m3u8
 广东民生,http://gmxw.7766.org:808/hls/18/index.m3u8
 广东民生,http://mzwh4455.qicp.vip:280/hls/29/index.m3u8
+广东新闻,http://gdjyyd.sohu.blog:1698/hls/10/index.m3u8
 广东新闻,http://116.77.33.98:44330/tsfile/live/1006_1.m3u8
 广东新闻,http://php.jdshipin.com:8880/TVOD/chudian.php?id=xwpd
 广东新闻,http://php.jdshipin.com:8880/TVOD/chudian.php?id=gdxw
@@ -3172,6 +3234,7 @@ Vr4K音乐,http://39.134.67.226/PLTV/88888888/224/3221225651/index.m3u8
 广东新闻,http://59.32.98.50:9901/tsfile/live/1002_1.m3u8
 广东新闻,http://163.177.124.249:9901/tsfile/live/1012_1.m3u8
 广东新闻,http://120.84.96.226:808/hls/124/index.m3u8
+大湾区卫视,http://gdjyyd.sohu.blog:1698/hls/11/index.m3u8
 大湾区卫视,http://116.77.33.98:44330/tsfile/live/1007_1.m3u8
 大湾区卫视,http://php.jdshipin.com:8880/TVOD/chudian.php?id=nfws
 大湾区卫视,http://hls.666888999.gay/gdzb.php?id=/udp/239.77.0.215:5146
@@ -3228,6 +3291,7 @@ Vr4K音乐,http://39.134.67.226/PLTV/88888888/224/3221225651/index.m3u8
 广东文化,http://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721
 广东文化,http://mmitv.top/pltv/itouchtv.php?id=gdwh&pk=2511
+广东经济,http://gdjyyd.sohu.blog:1698/hls/65/index.m3u8
 广东经济,http://php.jdshipin.com:8880/TVOD/chudian.php?id=gdjjkj
 广东经济,http://hls.666888999.gay/gdzb.php?id=/udp/239.77.0.85:5146
 广东经济,http://204bae1.123nat.com:66/test/gxjd/gxjd.php?id=19
@@ -3430,7 +3494,7 @@ CCTV13新闻,http://cyz36.livehbindex.hbcatv.cn/live/5000002081f5478882f00a0f9be
 上海ICS,http://aliyun-shbu-live.bestvcdn.com.cn/live/program/live/icshd8m/8000000/d1.m3u8
 上海ICS,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=10
 上海ICS,http://gslbservmst.bestv.com.cn/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=10
-
+广东体育,http://gdjyyd.sohu.blog:1698/hls/75/index.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,https://myphp.jdshipin.com/api/otv3.php?py=2&from=LiYdg
 广东体育,http://120.234.220.107:7000/udp/239.20.0.103:2004
@@ -3518,6 +3582,7 @@ CCTV5+,http://39.134.19.244:6610/yinhe/2/ch00000090990000001334/index.m3u8?virtu
 风云足球,http://www.yiyibest.com:7777/udp/239.49.9.6:6000
 风云足球,http://itstar.top:4000/udp/239.49.9.6:6000
 风云足球,http://157.0.3.7/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
+新视觉,http://gdjyyd.sohu.blog:1698/hls/81/index.m3u8
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 新视觉,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000249
 新视觉,http://php.jdshipin.com/bestv.php?id=xsjhd8m/8000000
@@ -4498,7 +4563,8 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 GRTN生活频道,http://glive.grtn.cn/live/life.m3u8
 GRTN纪录片频道,http://glive.grtn.cn/live/jilupian.m3u8
 GRTN健康频道,http://glive.grtn.cn/live/health.m3u8
-
+岭南戏曲,http://gdjyyd.sohu.blog:1698/hls/91/index.m3u8
+岭南戏曲,http://115.44.140.170:18180/TV00000000000000000031@HHZT
 岭南戏曲,http://adsl.netjsu.com:9900/tsfile/live/1009_1.m3u8
 岭南戏曲,https://5211.link/gdtv.php?id=lnxq
 岭南戏曲,https://php.17186.eu.org/gdtv/lnxq.m3u8
@@ -5019,6 +5085,7 @@ CCTV14少儿,http://112.25.63.150/gitv_live/G_CCTV-14-CQ/G_CCTV-14-CQ.m3u8
 浙江少儿,http://223.95.111.98:5555/newlive/live/hls/23/live.m3u8
 云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
 云南少儿,https://hwapi.yunshicloud.com/62hdvf/9ojsty.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
+广东少儿,http://gdjyyd.sohu.blog:1698/hls/13/index.m3u8
 广东少儿,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.250:5146
 广东少儿,http://gmxw.7766.org:808/hls/175/index.m3u8
 广东少儿,http://204bae1.123nat.com:66/test/gxjd/gxjd.php?id=9
@@ -9376,7 +9443,4 @@ JUQ-188 激烈的偷情-岬さくら,https://t27.cdn2020.com/video/m3u8/2023/04/
 JUQ-203 美人秘書誕生-流川はる香,https://t27.cdn2020.com/video/m3u8/2023/04/07/feffe663/index.m3u8
 SSIS-639 奇跡美巨乳-山手梨愛,https://t27.cdn2020.com/video/m3u8/2023/04/07/cb297c1b/index.m3u8
 HBAD-655 母亲被儿子的朋友性侵后浑身都是精液,https://t27.cdn2020.com/video/m3u8/2023/04/06/85dc63d2/index.m3u8
-
-
-
 
