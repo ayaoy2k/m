@@ -22,7 +22,6 @@
 无线新闻,http://tb14876310104:59058@hktv.maoy.cc/stream/channelid/950745676
 无线新闻,https://tb14876310104:59058@hk2.maoy.cc/stream/channelid/2017694124
 无线新闻,http://113.88.97.132:9106/stream/channelid/858042437
-无线新闻,http://203.218.232.199:9981/stream/channelid/168959014?ticket=5be55c3a11b7c78b72e1ac8a6c4cd81d40464ab5&profile=pass
 无线新闻,http://www.nettvpro.live/hls/tvb.php?id=1
 无线新闻,http://lan138.3322.org:9981/stream/channelid/1936554890
 无线新闻,http://2874643631:qq183381@8bb.f3322.net:39993/stream/channelid/782365096
@@ -30,26 +29,17 @@
 无线新闻,http://116.48.15.232:9981/stream/channelid/1062239916
 无线新闻,http://link.sczhgx.cn:20013/hls/81/index.m3u8
 无线新闻,http://27.46.125.116:808/hls/81/index.m3u8
-无线新闻,http://link.sczhgx.com:59845/hls/82/index.m3u8
+无线新闻,http://link.sczhgx.com:13489/hls/208/index.m3u8
+无线新闻,http://link.sczhgx.com:64753/hls/82/index.m3u8
 无线新闻,http://shazui.8866.org:800/hls/82/index.m3u8
 无线新闻,http://27.46.125.78:800/hls/82/index.m3u8
-无线新闻,http://y3y4.f3322.net:2233/hls/89/index.m3u8
-无线新闻,http://tvsharemjj.lymmmm.com:8001/bysid/83
-无线新闻,http://061238006049.ctinets.com:8001/bysid/83
 无线新闻,http://61.238.6.49:8001/bysid/83
 无线新闻,http://knas2020.direct.quickconnect.to:9981/stream/channelid/99790626
 无线新闻,http://knas2020.synology.me:9981/stream/channelid/99790626
 无线新闻,http://223.17.122.230:9981/stream/channelid/804222044
 无线新闻,http://xtv:1292@23.142.200.188:9981/stream/channelid/213479573
-无线新闻,http://116.205.130.205:66/6/807tv.php?tid=gt&id=8
-无线新闻,http://c-leung.homeip.net:8012/bysid/83
 无线新闻,http://59.149.114.27:9981/stream/channelid/441235415
-无线新闻,http://cnm3u8.3322.org:9080/hls/live/iNews/hls.m3u8
-无线新闻,http://topway.tv888.top:9080/hls/live/iNews/hls.m3u8
 无线新闻,http://prez.dontconfuse.us.koubaisya.com:9981/stream/channelid/1785821393
-无线新闻,http://162.19.247.76:22222/live/tvbnews/index.m3u8
-无线新闻,http://pull-l3-cny.douyincdn.com/live/I8NmAJdtvb632.m3u8
-无线新闻,https://tv.iill.top/tvb/2
 
 HOY资讯,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
 HOY资讯,https://fast.hidns.vip/163189/hoy78
@@ -1146,7 +1136,6 @@ HBO原创,http://pull-l3-cny.douyincdn.com/live/9bfb4b08fec367ed3850357a853250d5
 龙祥时代电影,http://120.84.96.247:808/hls/35/index.m3u8
 龙祥时代电影,http://113.64.147.249:808/hls/38/index.m3u8
 
-AXN电影,http://129fy28039.zicp.fun:8181/tsfile/live/1217_1.m3u8
 贵港粤影,http://171.108.239.116:8020/tsfile/live/1025_1.m3u8
 贵港粤影,http://171.108.239.113:8020/tsfile/live/1025_1.m3u8
 贵港粤影,http://171.108.239.29:8020/tsfile/live/1025_1.m3u8
@@ -1157,7 +1146,12 @@ Now体育,https://7pal.short.gy/nowsport4k
 港,http://link.sczhgx.cn:20013/hls/165/index.m3u8
 亚太第一卫视,http://13457610200.8866.org:2018/live/珠江频道HD/index.m3u8
 
-江苏移动N,#genre#
+江苏移动,#genre#
+凤凰香港,http://183.207.248.71/gitv/live1/-/HD-10000k-1080P-fhhongkong5s
+凤凰资讯,http://183.207.248.71/gitv/live1/-/HD-10000k-1080P-fhchinese5s
+凤凰中文,http://183.207.248.71/gitv/live1/-/HD-10000k-1080P-fhchinese5s
+百视tv,http://183.207.249.71/bestv/vod/pjsag00bst010000326595e44e8f7f8c/mjsag00bst010000326595e44e8f7f8c
+百视tv,http://223.105.252.45/2/16/20240823/292631238/index.m3u8
 咪咕音乐,http://223.105.252.58/PLTV/4/224/3221228794/index.m3u8
 咪咕音乐,http://183.207.249.71/gitv/live1/-/GITV-JS-5
 小猪佩奇,http://183.207.249.71/gitv/live1/-/GITV-JS-12
@@ -1307,7 +1301,6 @@ cctv14,http://183.207.249.71/gitv/live1/-/HD-8000k-1080P-cctv14
 Live南京,http://223.105.252.55/PLTV/4/224/3221228753/index.m3u8
 汪汪队,http://223.110.243.239/PLTV/4/224/3221228463/index.m3u8
 汪汪队,http://183.207.249.71/gitv/live1/GITV-JS-13/GITV-JS-13
-
 
 互联网娱乐,#genre#
 虎牙经典好歌,http://cfss.cc/cdn/hy/20616876.m3u8
@@ -5026,12 +5019,9 @@ CCTV14少儿,http://112.25.63.150/gitv_live/G_CCTV-14-CQ/G_CCTV-14-CQ.m3u8
 卡酷少儿,http://202.143.101.47/pull.brtvcloud.com/brtv8kapptv/brtv8kappkaku.m3u8
 卡酷少儿,http://beifeng.site:4000/udp/239.3.1.189:8000
 卡酷少儿,https://i.cntv.sbs/hls/bj.m3u8?id=kk
-广东现代教育,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.18:5146
 早期教育,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.180:5146
 早期教育,http://cdn.jdshipin.com:8880/gitv.php?id=G_CETV-ZQJY-CQ
 早期教育,http://hls.live.cqccn.com/__cl/cg:live/__c/zaojiaoHD/__op/default/__f/index.m3u8
-福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
-福州少儿,http://live2.setvn.com:9095/live/fz4hd.m3u8?ptype=6&plocation=EJbaFsNCT7QZ1ciU7DGwmA==&puser=freeuser&ptoken=3d69eeae80cf4d05fa0bb15e95699fe5&ot=0&d=3d69eeae80cf4d05fa0bb15e95699fe5&l=EJbaFsNCT7QZ1ciU7DGwmA==&pid=&cid=304&v=2&u=freeuser&t=3d69eeae80cf4d05fa0bb15e95699fe5&p=6&sid=hrNOSW7b13v1GYax/i1H7Q==&r=20230420021005&e=20230421021005&nc=i0L195IJP5p4&a=7&hlsSessionID=17856211193136630158&srchost=www.fjgd.com&gid=5oxACwhgg1Lq28V26vALNg%3D%3D
 嘉佳卡通,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000025964/1.m3u8
 嘉佳卡通,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.179:5146
 嘉佳卡通,http://ctcc-tvod.ctyun-cdn.gitv.tv/gitv_live/G_JIAJIA/G_JIAJIA.m3u8
@@ -5122,12 +5112,7 @@ CCTV14少儿,http://112.25.63.150/gitv_live/G_CCTV-14-CQ/G_CCTV-14-CQ.m3u8
 中国教育CETV4,http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
 中国教育CETV4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 中国教育CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
-江苏移动N,#genre#
-凤凰香港,http://183.207.248.71/gitv/live1/-/HD-10000k-1080P-fhhongkong5s
-凤凰资讯,http://183.207.248.71/gitv/live1/-/HD-10000k-1080P-fhchinese5s
-凤凰中文,http://183.207.248.71/gitv/live1/-/HD-10000k-1080P-fhchinese5s
-百视tv,http://183.207.249.71/bestv/vod/pjsag00bst010000326595e44e8f7f8c/mjsag00bst010000326595e44e8f7f8c
-百视tv,http://223.105.252.45/2/16/20240823/292631238/index.m3u8
+
 超级宝贝Jo2,#genre#
 1,https://hd.ijycnd.com/play/vbmwJRGe/index.m3u8
 1,https://ikcdn01.ikzybf.com/20221031/1izKr7zV/index.m3u8
