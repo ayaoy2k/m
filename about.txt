@@ -1,6 +1,5 @@
 港澳台,#genre#
 无线新闻,http://r.jdshipin.com/CkuBd
-无线新闻,https://live.catvod.com/iptv.php?id=tvbxw01
 无线新闻,https://tvb.860775.xyz/I-NEWS
 无线新闻,http://zwg6818.vicp.net:28000/bysid/83
 无线新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
@@ -2706,8 +2705,6 @@ CCTV4K,http://[240e:978:f02:14:3c::]/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000266303.
 CCTV4K,http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
 CCTV4K,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240505_1/playlist.m3u8?CONTENTID=00000110240505_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV4K,http://[240e:925:2:101::38]/live2.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
-CCTV4K,https://p.ggiptv.com/v/4k.m3u8
-CCTV4K,https://v.bjiptv.eu.org/4.php
 纯享4K,http://[2409:8087:5e00:24::1f]:6060/200000001898/460000089800010006/1.m3u8
 纯享4K,http://[2409:8087:5e08:24::0a]:6610/000000001000/1000000004000011651/index.m3u8?stbId=3&livemode=1
 纯享4K,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
@@ -3422,7 +3419,6 @@ CCTV13新闻,http://cyz36.livehbindex.hbcatv.cn/live/5000002081f5478882f00a0f9be
 肇庆综合,http://php.jdshipin.com:8880/TVOD/chudian.php?id=zqzh
 肇庆综合,http://hls.666888999.gay/gdzb.php?id=/udp/239.253.43.1:5146
 肇庆综合,http://app.nettv.vip/hls/itouch.php?id=1232
-肇庆综合,http://tianhewan.top/ZIPP.php?url=http://59.32.98.1:9901/tsfile/live/1022_1.m3u8
 肇庆综合,http://88888.55555.io:2345/udp/239.253.43.1:5146
 肇庆综合,http://www.kitcc.cn:8887/udp/239.253.43.1:5146
 肇庆综合,http://171.110.10.92:8181/tsfile/live/1120_1.m3u8
@@ -3439,18 +3435,12 @@ CCTV13新闻,http://cyz36.livehbindex.hbcatv.cn/live/5000002081f5478882f00a0f9be
 肇庆生活,http://88888.55555.io:2345/udp/239.253.43.2:5146
 肇庆生活,http://www.kitcc.cn:8887/udp/239.253.43.2:5146
 肇庆生活,http://id.ganggang.live:63/chud.php?pk=2525
-肇庆生活,http://ep.b1791.com/php/itouch.php?pk=2525
-肇庆生活,https://kfs-live.nanyuecloud.com/live/nwezhaoqing2.m3u8?txSecret=67969fe564e37a413508527ce0205f72&txTime=63D8797F
 
-江西新闻,http://121.51.249.73/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
-江西新闻,http://223.109.33.33/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
 福建新闻,http://lu1.cc/itv/fjtv/fjtv.php?id=fjxw
 福建新闻,http://nas.jdshipin.com:8801/fjgd.php?id=fjxwhd
 福建新闻,http://110.81.206.138:50080/tsfile/live/23025_1.m3u8
 福建新闻,https://live.v1.mk/api/fjgd.php?id=fjxw
 江苏新闻,http://lu1.cc/itv/jstv/jstv.php?id=jsgg
-江苏新闻,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/PLTV/1/224/3221229904/1.m3u8
-江苏新闻,http://[2409:8087:2001:20:2800:0:df6e:eb0f]/PLTV/1/224/3221229904/1.m3u8
 江苏新闻,https://xuyi-tv-replay.cm.jstv.com/lizhiapp/jsgg.m3u8
 江苏新闻,https://xuyi-tv-replay.cm.jstv.com/livezhuzhan/jsgg.m3u8
 江苏新闻,http://39.136.173.100/hlsmgsplive.miguvideo.com/wd_r2/jstv/jsgonggong/600/index.m3u8?&encrypt=1
@@ -3458,7 +3448,6 @@ CCTV13新闻,http://cyz36.livehbindex.hbcatv.cn/live/5000002081f5478882f00a0f9be
 南京新闻,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
 南京新闻,http://live.nbs.cn/channels/njtv/xwzh/500k.m3u8
 南京新闻,http://itstar.top:4000/udp/239.49.1.158:6000
-南京新闻,http://www.yiyibest.com:7777/udp/239.49.1.158:6000
 北京新闻,http://v2.91kds.cn:80/b9/btv8k.m3u8?id=btv9&auth=rinimabi
 北京新闻,http://111.13.42.242/PLTV/88888888/224/3221226437/1.m3u8?北京
 北京新闻,http://111.13.42.169/PLTV/88888888/224/3221226437/1.m3u8
@@ -3467,7 +3456,6 @@ CCTV13新闻,http://cyz36.livehbindex.hbcatv.cn/live/5000002081f5478882f00a0f9be
 北京新闻,http://111.62.156.102/pull.brtvcloud.com/brtv8kapptv/brtv8kappxinwen.m3u8
 北京新闻,http://live.cooltv.top/tv/btime.php?id=btvxw
 北京新闻,http://36.110.236.131/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
-北京新闻,http://beifeng.site:4000/udp/239.3.1.159:8000
 
 北京财经,http://down.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8?txSecret=725991b9d763b7890055732d3b2f7375&txTime=4675000000000000
 北京财经,http://111.62.156.102/pull.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
@@ -3680,15 +3668,7 @@ CCTV5+,http://39.134.19.244:6610/yinhe/2/ch00000090990000001334/index.m3u8?virtu
 北京体育悠闲,http://124.232.233.6:6060/000000001901/202200010080/index.m3u8?m3u8_level=2
 北京体育悠闲,http://down.brtvcloud.com/brtv8kapptv/brtv8kapp4ktiyu.m3u8?txSecret=ef7f1e6023c232c27595332561ed6e9a&txTime=4675000000000000
 北京体育悠闲,http://111.13.42.6/PLTV/88888888/224/3221226515/1.m3u8
-睛彩竞技,http://genglicai.3322.org:9901//tsfile/live/1000_1.m3u8
-睛彩竞技,http://tianhewan.top/ZIPP.php?url=http://219.142.151.30:9901/tsfile/live/16081_1.m3u8
-睛彩篮球,http://tianhewan.top/ZIPP.php?url=http://219.142.151.30:9901/tsfile/live/16082_1.m3u8
-睛彩羽毛球,http://tianhewan.top/ZIPP.php?url=http://219.142.151.30:9901/tsfile/live/16083_1.m3u8
-睛彩广场舞,http://tianhewan.top/ZIPP.php?url=http://219.142.151.30:9901/tsfile/live/16084_1.m3u8
-睛彩青少,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010147
 睛彩青少,http://[2409:8087:5e00:24::1f]:6060/200000001898/460000089800010147/1.m3u8
-睛彩青少,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010147/1.m3u8
-睛彩青少,http://[2409:8087:5e00:24::12]:6060/200000001898/460000089800010147/1.m3u8
 深圳体育,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.1.140:5146
 深圳体育,http://gmxw.7766.org:808/hls/158/index.m3u8
 深圳体育,http://zjdx.jdshipin.com:808/hls/32/index.m3u8
@@ -4606,8 +4586,6 @@ GRTN健康频道,http://glive.grtn.cn/live/health.m3u8
 岭南戏曲,http://1b6467f415.iok.la:132/tsfile/live/1004_1.m3u8
 岭南戏曲,http://13457610200.8866.org:2018/live/岭南戏曲HD/index.m3u8
 海南综艺,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010090/1.m3u8
-
-
 
 电台+路况,#genre#
 AsiaFM亚洲粤语,http://yyt.asiafm.net:8000/asiafm
